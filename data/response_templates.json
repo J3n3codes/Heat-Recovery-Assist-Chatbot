@@ -1,5 +1,8 @@
 {
-  "Hydration Guidance": "Hydrate before, during, and after exercise. Replace fluids and electrolytes lost through sweat.",
-  "Exercise Guidance": "Return to exercise gradually after heat stress and monitor symptoms.",
-  "Diet Guidance": "Focus on carbohydrate replacement and adequate nutrition during recovery."
+  "Greeting": "Hello. I can help with general exercise, hydration, diet, cooling, and warning-symptom guidance related to heat stress recovery.",
+  "Exercise Guidance": "Return to exercise gradually after heat stress. Start with lower intensity activity, monitor symptoms, and avoid training in high heat until fully recovered.",
+  "Hydration Guidance": "Focus on restoring hydration after heat exposure. Replace fluids lost through sweat and consider electrolytes when sweat losses are high.",
+  "Diet and Recovery Nutrition": "Recovery nutrition should support energy replacement, especially carbohydrates, along with regular meals and fluids.",
+  "Cooling Strategies": "Cooling strategies may include resting in a cool environment, cold fluids, ice slurries, cooling towels, or other practical cooling methods.",
+  "Warning Symptoms": "If symptoms include confusion, fainting, collapse, seizure, severe dizziness, or altered consciousness, stop activity and seek urgent medical help."
 }
