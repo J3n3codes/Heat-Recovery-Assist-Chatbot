@@ -1,7 +1,4 @@
 # Version 2 Prototype
-# TF-IDF + Cosine Similarity Chatbot #Term Frequency – Inverse Document Frequency
-
-# Version 2 Prototype
 # TF-IDF + Cosine Similarity Chatbot
 
 import csv
@@ -58,5 +55,4 @@ if best_score >= 0.10:
     print(responses[category])
 
 else:
-    print("\nSorry, I do not understand that question yet.")
     print("\nSorry, I do not understand that question yet.")
