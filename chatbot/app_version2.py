@@ -4,7 +4,7 @@
 #print("Heat Stress Assistant Chatbot - Version 2")
 #print("Embedding-based retrieval will be added here.")
 # Version 2 Prototype
-# TF-IDF + Cosine Similarity Chatbot
+# TF-IDF + Cosine Similarity Chatbot #Term Frequency – Inverse Document Frequency
 
 import csv
 import json
