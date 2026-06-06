@@ -1,10 +1,8 @@
 # Version 2 Prototype
-# Embedding-based chatbot using semantic similarity
-
-#print("Heat Stress Assistant Chatbot - Version 2")
-#print("Embedding-based retrieval will be added here.")
-# Version 2 Prototype
 # TF-IDF + Cosine Similarity Chatbot #Term Frequency – Inverse Document Frequency
+
+# Version 2 Prototype
+# TF-IDF + Cosine Similarity Chatbot
 
 import csv
 import json
@@ -55,7 +53,10 @@ if best_score >= 0.10:
     print("\nClosest training question:", best_question)
     print("Similarity score:", round(best_score, 3))
     print("Category:", category)
+
     print("\nResponse:")
     print(responses[category])
+
 else:
+    print("\nSorry, I do not understand that question yet.")
     print("\nSorry, I do not understand that question yet.")
