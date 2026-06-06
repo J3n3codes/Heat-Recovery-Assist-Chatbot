@@ -62,6 +62,6 @@ These strategies may help reduce heat strain during exercise.
 * What cooling strategies may help recovery?
 * What should I do if I experience gastrointestinal discomfort after exercise?
 
-# Related to Chatbot
+# Chatbot Related
 
 This paper supports chatbot responses related to gastrointestinal symptoms, hydration practices, cooling strategies, and recovery following exercise in hot environments.
