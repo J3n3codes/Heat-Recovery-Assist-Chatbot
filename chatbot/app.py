@@ -8,7 +8,7 @@ print("--------------------------------")
 # Load training examples
 training_examples = {}
 
-with open("/data/training_examples.csv", "r") as file:
+with open("data/training_examples.csv", "r") as file:
     reader = csv.DictReader(file)
 
     for row in reader:
@@ -18,7 +18,7 @@ with open("/data/training_examples.csv", "r") as file:
         training_examples[question] = category
 
 # Load response templates
-with open("/data/response_templates.json", "r") as file:
+with open("data/response_templates.json", "r") as file:
     responses = json.load(file)
 
 # Ask user question
