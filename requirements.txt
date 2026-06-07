@@ -1,5 +1,7 @@
+cat > requirements.txt <<'EOF'
 requests
 numpy
 scikit-learn
 streamlit
 sentence-transformers
+EOF
