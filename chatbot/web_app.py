@@ -1,3 +1,4 @@
+cat > chatbot/web_app.py <<'EOF'
 import csv
 import json
 import numpy as np
@@ -43,3 +44,4 @@ if user_question:
         st.success(responses[category])
     else:
         st.error("Sorry, I do not understand that question yet.")
+EOF
